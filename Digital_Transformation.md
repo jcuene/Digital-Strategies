@@ -1,1 +1,7 @@
-http://insights.prophet.com/the-state-of-digital-transformation-2018-2019
+Some links to Digital Transformation resources.
+
+- [The 2019 Altimeter Report on Digital Transformation (via Prophet)]: 
+(http://insights.prophet.com/the-state-of-digital-transformation-2018-2019)
+
+
+
