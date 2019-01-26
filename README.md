@@ -5,3 +5,9 @@ This is a work in progress, i'll be adding links as i go.
 
 The goal is to create an open repository of files
 
+Trying Markdown now
+- Bullets
+- bullets
+- bullets
+
+
