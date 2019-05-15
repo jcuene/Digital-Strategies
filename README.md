@@ -1,13 +1,6 @@
-# Digital-Strategies
-Resources and ideas for digital strategies
+# Intro
+This document is intended to be a foundational overview of the situation and operating environment for the Walker Art Center as the institution makes plans for the next 5 years. 
 
-This is a work in progress, i'll be adding links as i go. 
-
-The goal is to create an open repository of files
-
-Trying Markdown now
-- Bullets
-- bullets
-- bullets
+5.15.19 - Starting the document
 
 
