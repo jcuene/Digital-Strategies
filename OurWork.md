@@ -1,4 +1,4 @@
-## Our Work
+## The Scope of Our Work
 In order to meet our objectives and support the overall mission of the Walker, the scope of our work is broad. To move the institution forward, we we must focus our work on the following themes. 
 
 ### Make our Collection Accessible Now and Into the Future
