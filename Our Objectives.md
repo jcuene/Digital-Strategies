@@ -1,5 +1,5 @@
-## Our Goals
-As we consider how to deploy technology in the future, we will seek to accomplish the following goals: 
+## Our Objectives
+As we consider how to deploy technology in the future, we will seek to accomplish the following objectives: 
 1. Engagement - Create more engagement with and appreciation for the WAC's art works, the collections, and programming
 2. Understanding - Create a richer, deeper understanding of the work, the artists, and the cultural questions addressed by the work
 3. Emerging Forms - Create an environment where artists can explore the intersection of technology and artistic expression...
